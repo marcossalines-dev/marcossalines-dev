@@ -41,8 +41,8 @@ Estou construindo meus projetos gradualmente, aplicando o que aprendo nos estudo
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcossalines-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Marcos" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossalines-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Linguagens dos projetos de Marcos" />
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcossalines-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossalines-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
 </p>
 
 ### 📫 Contato
