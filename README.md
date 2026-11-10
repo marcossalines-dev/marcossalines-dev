@@ -59,8 +59,8 @@ O projeto faz parte da minha evolução prática em Backend e está sendo desenv
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcossalines-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossalines-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=marcossalines-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcossalines-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Linguagens mais utilizadas" />
 </p>
 
 ### 📫 Contato
